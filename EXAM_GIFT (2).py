@@ -1,6 +1,4 @@
 #___________❦❦❦❦❦❦❦❦❦❦❦❦❦❦❦❦❦❦
-#________𝐒𝐄_𝐁𝐘_𝗦𝗨𝗝𝗢𝗬_𝐄𝐇𝐂_𝐂𝐘𝐁𝐄𝐑_𝟗𝟗❦
-#-----------Telegram Channel 1800 Subscriber Special Gift
 #🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃🍃
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
